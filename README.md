@@ -1,3 +1,3 @@
 - [Blog-设计模式摘录](http://blog.wuwenxiang.net/Design-Pattern)
-- [C#-大话设计模式源码](https://github.com/wu-wenxiang/Training-DesignPattern-Public/tree/master/CSharp)
+- [C#-设计模式](https://github.com/wu-wenxiang/Training-DesignPattern-Public/tree/master/CSharp)
 - [Python-设计模式](https://github.com/wu-wenxiang/Training-DesignPattern-Public/tree/master/Python)
