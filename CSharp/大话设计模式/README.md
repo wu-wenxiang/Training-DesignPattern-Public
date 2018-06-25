@@ -1,1 +1,1 @@
-源码源自《大话设计模式》
+- [大话设计模式](https://share.weiyun.com/5zEVy8f)
