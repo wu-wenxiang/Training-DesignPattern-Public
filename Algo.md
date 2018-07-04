@@ -1,5 +1,6 @@
 ## 排序算法
-
+- [参考-1](http://www.cnblogs.com/onepixel/p/7674659.html)
+- [参考-2](https://blog.csdn.net/kanty_699636/article/details/20369831)
 
 ## 二分查找树
 
